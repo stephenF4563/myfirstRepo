@@ -1,8 +1,8 @@
-# myfirstRepo
-This is my first repository
+# Welcome to the Pac-Man Exersize
+ 
+Description: This is a classic representation of the Iconic Pac MAn character.
+The 
 
-Name: MIT fullstack 
-Description: Working to develop my coding skill one week at a time 
 
 Usage: these projects help me to meet my goals for the class
 
